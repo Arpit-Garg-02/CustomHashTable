@@ -23,14 +23,13 @@ public class HashNode<K, V> {
     private K key;
     private ArrayList<Object> ObjectValue;
 
-
     /**
      * @param key
      * @param value
      */
     public HashNode(K key, V value) {
         this.key = key;
-        ObjectValue=new ArrayList<>();
+        ObjectValue = new ArrayList<>();
         ObjectValue.add(value);
     }
 

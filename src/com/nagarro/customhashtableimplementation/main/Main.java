@@ -62,7 +62,7 @@ public class Main {
             System.out.println(_8_TRAVERSE);
             System.out.println(ENTER_YOUR_CHOICE);
             String choiceForOperation = scan.next();
-            int choice = new InputValidationUtil().inputValidation(choiceForOperation);            
+            int choice = new InputValidationUtil().inputValidation(choiceForOperation);
             choiceAction(choice, hashTable);
             System.out.println(PRESS_Y_FOR_CONTINUE);
             ch = scan.next().charAt(0);
