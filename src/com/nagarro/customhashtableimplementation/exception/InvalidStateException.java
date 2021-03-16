@@ -1,5 +1,5 @@
 /*
-* Class name: InvalidValuesException
+* Class name: InvalidStateException
 *
 * Version info: jdk 1.8
 *
