@@ -7,13 +7,13 @@
 * 
 * Author info: Arpit Garg
 *
-* Creation date: 15/Mar/2021
+* Creation date: 16/Mar/2021
 *
 * Last updated By: Arpit Garg
 *
-* Last updated Date: 15/Mar/2021
+* Last updated Date: 16/Mar/2021
 *
-* Description: Model class of Hash Table, Store key and Value in the Node
+* Description: Model class of Hash Table, Store Value in the Node
 */
 package com.nagarro.customhashtableimplementation.model;
 
